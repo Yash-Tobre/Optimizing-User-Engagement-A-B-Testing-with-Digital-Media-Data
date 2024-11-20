@@ -56,5 +56,4 @@ The treatment group significantly outperformed the control group in conversion r
 ## Acknowledgments
 Special thanks to Kaggle for providing the dataset and to [Harvard Business Review](https://hbr.org) for A/B Testing insights.
 
-## License
-This project is open-source and licensed under the MIT License.
+
